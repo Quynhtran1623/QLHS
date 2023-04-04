@@ -1,0 +1,15 @@
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\obj\Debug\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\BussinessLayer.dll.config
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\quynh\OneDrive\Tài liệu\Tài liệu OU\Kỳ 2 năm 3\đồ án môn lập trình hệ cơ sở dữ liệu\QUANLYHOCSINH\BussinessLayer\obj\Debug\BussinessLayer.pdb
